@@ -8,9 +8,8 @@ A simple and responsive **Movie Search App** built using **React**, **Vite**, **
 
 Add your project screenshot inside the **public** folder.
 
-```md
 ![Movie Search App Screenshot](public/output.png)
-```
+
 
 ---
 
